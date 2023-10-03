@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A version of your project that is hosted on the internet or another network.  
