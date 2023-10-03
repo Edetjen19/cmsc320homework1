@@ -1,4 +1,6 @@
 What is the difference between a merge and a rebase?
 
 
-Merging combines branches with a new commit while preserving their separate histories. Rebasing moves one branch's commits onto another, creating a linear history by reapplying each change.
+Merging combines branches with a new commit while preserving their separate histories. Rebasing moves one branch's commits onto another, creating a linear history by reapplying each change.What is a remote repository?
+
+A version of your project that is hosted on the internet or another network.  
